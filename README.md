@@ -12,4 +12,4 @@ Contributeurs été 2024
 - Derrick Tamfu
 - arlette dyna Makuete
 - Jennifer Marcotte
--Menialeu Larissa
+- Larissa Menialeu
