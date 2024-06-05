@@ -13,3 +13,5 @@ Contributeurs été 2024
 - arlette dyna Makuete
 - Jennifer Marcotte
 - Larissa Menialeu
+- Nicolas Plouffe II
+
