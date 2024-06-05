@@ -11,7 +11,15 @@ Contributeurs été 2024
 - Don Nick Munezero
 - Derrick Tamfu
 - arlette dyna Makuete
+<<<<<<< main
+- Jennifer Marcotte 
+-Sameh Addessi
+=======
 - Jennifer Marcotte
 - Larissa Menialeu
 - Nicolas Plouffe II
+<<<<<<< main
 
+=======
+>>>>>>> main
+>>>>>>> main
