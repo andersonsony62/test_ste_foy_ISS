@@ -16,4 +16,3 @@ Contributeurs été 2024
 - Jennifer Marcotte
 - Larissa Menialeu
 - Nicolas Plouffe II
-
