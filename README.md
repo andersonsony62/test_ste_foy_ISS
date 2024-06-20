@@ -17,3 +17,4 @@ Contributeurs été 2024
 - Larissa Menialeu
 - Nicolas Plouffe II
 - Philippe-Olivier Robichaud
+-simo thiokou sonia fabiola
